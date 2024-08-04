@@ -1,5 +1,4 @@
 name: Selenium IDE CI
-
 on:
   push:
     branches:
